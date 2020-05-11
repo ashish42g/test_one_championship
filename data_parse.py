@@ -11,8 +11,8 @@ if __name__ == '__main__':
              )
     spark.sparkContext.setLogLevel("WARN")
 
-    data_file_path = "/Users/ashgarg/Documents/repo/test_one_chapionship/input_data/data.csv"
-    output_path = '/Users/ashgarg/Documents/repo/test_one_chapionship/output_data/'
+    data_file_path = "/Users/ashgarg/Documents/repo/test_one_championship/input_data/data.csv"
+    output_path = '/Users/ashgarg/Documents/repo/test_one_championship/output_data/'
 
     data = (spark
             .read

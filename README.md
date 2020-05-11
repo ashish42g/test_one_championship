@@ -1,2 +1,5 @@
 # test_one_championship
-assignement for one championship
+Assignment for one championship
+
+- This is the pyspark script
+- command to run locally -  python3 data_parse.py 
